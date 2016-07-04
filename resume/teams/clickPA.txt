@@ -1,0 +1,5 @@
+clickPA was a website that helped high school students find nearby events
+I helped build Android app for clickPA. We were a finalist in the Palo Alto
+Apps Challenge. I experienced and practiced skills required to produce an app
+like showcasing and pitching. I also networked with city officials, other
+finalists, and Cloudera engineers.

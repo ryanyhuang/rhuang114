@@ -1,0 +1,5 @@
+This website was inspired by some of my classes at UCSD. It helped me practice
+full-stack web development, and understand how child processes run on a
+server. Also good problem solving practice for implementing cd, and other
+functionality like tab and up and down arrow keys. Also had to review UNIX so
+I could put measures in place that prevent people from compromising the server.

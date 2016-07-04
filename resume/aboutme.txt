@@ -1,0 +1,14 @@
+I’m currently a sophomore at UC San Diego, and I was born and raised in Palo
+Alto, California. The surrounding Silicon Valley gave me plenty of exposure to
+the world of Computer Science, and I’ve been hooked since I took my first
+programming class in high school. Within the field of Computer Science, I’m
+especially interested in data science and statistics. I was fascinated when my
+sister explained how the Google maps estimated travel time was based on data
+gathered from cars currently on the road, as opposed to the speed limit.
+
+In the short term, I want to prioritize my education and classes, work on
+projects, and gain some work experience. After my undergraduate, I aim to
+spend some time outside of California (probably on the East Coast), and I’m
+planning to attend graduate school. In the long term, I hope to have a 
+stimulating job that enables me to use Computer Science to give back to the
+world that's given me so much.

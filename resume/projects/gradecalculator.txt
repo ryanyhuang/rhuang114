@@ -1,0 +1,5 @@
+https://play.google.com/store/apps/details?id=com.palyadcgradecalc.gradecalculator&hl=en
+First app developed from scratch with the Android Development Club. Took in
+user information about a class and outputted how well the student needed to
+do on the final to earn a certain grade in the class. I wrote the algorithm
+used in the app.

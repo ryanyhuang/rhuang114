@@ -1,0 +1,9 @@
+CSE 11: Object-Oriented Programming									A
+CSE 12: Basic Data Structures and Object-Oriented Design			A
+CSE 15L: Software Tools and Techniques (UNIX, vim, git etc.)		A
+CSE 30: Computer Organization and Systems Programming				A
+Math 15A: Introduction to Discrete Mathematics						A
+CSE 21: Discrete Mathematics for Computer Science					A
+Math 183: Statstical Methods										A+
+Math 20C: Calculus and Analytic Geometry for Engineering			A
+Math 20F: Linear Algebra											A+

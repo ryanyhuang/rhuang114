@@ -1,0 +1,15 @@
+http://cses.ucsd.edu/cselabs
+Spring 2016
+This website was made with the Basement Improvement Committee, and showed
+the availability of the lab computers where UCSD CSE students were expected
+to work on their programming assignments. It works by ssh-ing into each
+computer in the lab, and checking how many login processes are currently
+running.
+I designed the frontend, and integrated the backend into the current CSES
+website. This was the first nodejs app that I made, and gave me a lot of
+exposure to full-stack web development, as well as shell scripting and 
+understanding UNIX and servers. I'm currently writing a module that will take
+the data from the website and analyze it to produce useful statistics about
+the lab, like when it is the most busy, and when there is the highest tutor
+to student ratio. This will help UCSD CS students plan their days and increase
+their productivity.

@@ -1,0 +1,5 @@
+Sensors Specialist, Avionics team
+I'm currently helping to build and write the funtionality on board the cubesat
+that will regulate it's internal attitude and make changes to it if needed.
+Gaining exposure to the more tangibles aspects of CS as well as EE, had to learn
+about interfacing, data transfer, writing drivers, and how sensors work. 
