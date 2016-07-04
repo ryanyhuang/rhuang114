@@ -1,5 +1,5 @@
 //socket connection
-var socket = io.connect('https://ryanterminal.herokuapp.com');
+var socket = io.connect('https://rhuang114.herokuapp.com');
 
 //sets starting directory to the resume folder
 var curDir = "resume";
