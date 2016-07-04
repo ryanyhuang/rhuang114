@@ -240,10 +240,10 @@ var helpText =
 	"cd: enters folder (ex. \"cd projects\" will make you enter the projects folder). "
 	+ "You can see your current directory in the prompt.\n" +
 	"cat: will show contents of a text file when used as \"cat file.txt\".\n" +
-	"grep: finds instances of a word, like a resume keyword scanner." + 
+	"grep: finds instances of a word, like a resume keyword scanner. " + 
 	"(ex. grep -i \'java\' skills.txt). The -i option make it case insensitive. " +
-	"You can also use the -r option to search a folder. (ex grep -r web . would search "+
-	"every file in the resume folder for web)\n" +
+	"You can also use the -r option to search a folder. (ex. grep -r web . would search "+
+	"every file in the current folder for web).\n" +
 	"Other commands that work: echo, date, wc, pwd, ps.\n" +
 	"Disabled commands: rm, mv, cp, rmdir, touch, mkdir, kill, chmod, node.\n" +
 	"Disabled characters: <, >, &.\n" +
