@@ -143,7 +143,8 @@ var commandEntered = function(){
 	//or just wouldn't work
 	if(savedCommand.indexOf('<') != -1 ||
 		savedCommand.indexOf('>') != -1 ||
-		savedCommand.indexOf('&') != -1){
+		savedCommand.indexOf('&') != -1 ||
+		savedCommand.indexOf(';') != -1){
 		appendLine('Error: disabled character used. Enter \"help\" for more information');
 		command.value = '';
 		return;
