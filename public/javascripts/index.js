@@ -247,7 +247,7 @@ var helpText =
 	"every file in the current folder for web).\n" +
 	"Other commands that work: echo, date, wc, pwd, ps.\n" +
 	"Disabled commands: rm, mv, cp, rmdir, touch, mkdir, kill, chmod, node.\n" +
-	"Disabled characters: <, >, &.\n" +
+	"Disabled characters: <, >, &, and ;.\n" +
 	"Useful tip: Use the tab key to autocomplete file names, and the up and down keys "
 	+ "to browse previously entered commands.\n" +
 	"Type \"about\" to learn why some commands don't work and some are disabled.\n"
@@ -261,7 +261,7 @@ var aboutText =
 	"implementing each command and its options. However, child processes spawn in their "+
 	"own shells, so some functionality is lost. For instance, cd wouldn’t work because "+
 	"each new shell starts in the root directory, so I implemented it manually by "+
-	"storing all cd commands entered in the user’s frontend, and placing them in front "+
+	"storing all cd commands entered in the user’s browser, and placing them in front "+
 	"of each new command. Commands that require stdin won't work, too. I also had to disable a lot of commands, because they could "+
 	"alter the server structure or create spam files. To see the code for yourself, use "+
 	"cd ~. The backend is a simple node.js express app. If you have any questions, you can "+
